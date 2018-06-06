@@ -1,0 +1,17 @@
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.exe.config
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.exe
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.pdb
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\bin\Debug\RectangleLibrary.dll
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\bin\Debug\RectangleLibrary.pdb
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.exe
+C:\CUST_Samples\8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.pdb
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.exe.config
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.exe
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\bin\Debug\RectangleConsole.pdb
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\bin\Debug\RectangleLibrary.dll
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\bin\Debug\RectangleLibrary.pdb
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.csprojResolveAssemblyReference.cache
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.csproj.CoreCompileInputs.cache
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.exe
+C:\Chu2018\Samples\CH8\RectangleSamples\RectangleConsole\obj\Debug\RectangleConsole.pdb
