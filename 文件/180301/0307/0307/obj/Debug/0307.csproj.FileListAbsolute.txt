@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\180301\0307\0307\bin\Debug\0307.exe.config
+C:\Users\IEUser\Documents\180301\0307\0307\bin\Debug\0307.exe
+C:\Users\IEUser\Documents\180301\0307\0307\bin\Debug\0307.pdb
+C:\Users\IEUser\Documents\180301\0307\0307\obj\Debug\0307.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\0307\0307\obj\Debug\0307.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\0307\0307\obj\Debug\0307.exe
+C:\Users\IEUser\Documents\180301\0307\0307\obj\Debug\0307.pdb

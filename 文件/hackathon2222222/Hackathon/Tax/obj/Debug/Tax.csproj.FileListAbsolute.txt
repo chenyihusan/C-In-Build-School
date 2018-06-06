@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\bin\Debug\Tax.exe.config
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\bin\Debug\Tax.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\bin\Debug\Tax.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.Form1.resources
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.Properties.Resources.resources
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Tax\obj\Debug\Tax.pdb

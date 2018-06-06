@@ -1,0 +1,17 @@
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntitySample001.exe.config
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntitySample001.exe
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntitySample001.pdb
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntityFramework.dll
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntityFramework.SqlServer.dll
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntityFramework.xml
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\EntityFramework.SqlServer.xml
+C:\DemoCode\EntitySamples\EntitySample001\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.csprojResolveAssemblyReference.cache
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.AddForm.resources
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.Form1.resources
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.Properties.Resources.resources
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.ViewForm.resources
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.csproj.GenerateResource.Cache
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.csproj.CoreCompileInputs.cache
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.exe
+C:\DemoCode\EntitySamples\EntitySample001\obj\Debug\EntitySample001.pdb

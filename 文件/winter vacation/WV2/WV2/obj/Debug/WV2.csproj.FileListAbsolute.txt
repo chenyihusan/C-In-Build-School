@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\bin\Debug\WV2.exe.config
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\bin\Debug\WV2.exe
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\bin\Debug\WV2.pdb
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\obj\Debug\WV2.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\obj\Debug\WV2.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\obj\Debug\WV2.exe
+C:\Users\IEUser\Documents\winter vacation\WV2\WV2\obj\Debug\WV2.pdb

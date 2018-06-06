@@ -1,0 +1,11 @@
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\MyRectangle2Tests.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\MyRectangle2Tests.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\MyRectangle2.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\MyRectangle2.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\MyRectangle2.exe.config
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\obj\Debug\MyRectangle2Tests.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\obj\Debug\MyRectangle2Tests.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\obj\Debug\MyRectangle2Tests.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2Tests\obj\Debug\MyRectangle2Tests.pdb

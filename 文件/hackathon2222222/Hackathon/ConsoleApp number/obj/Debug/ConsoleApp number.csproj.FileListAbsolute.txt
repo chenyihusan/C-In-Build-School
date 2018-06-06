@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\bin\Debug\ConsoleApp number.exe.config
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\bin\Debug\ConsoleApp number.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\bin\Debug\ConsoleApp number.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\obj\Debug\ConsoleApp number.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\obj\Debug\ConsoleApp number.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\obj\Debug\ConsoleApp number.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\ConsoleApp number\obj\Debug\ConsoleApp number.pdb

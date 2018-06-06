@@ -1,0 +1,6 @@
+C:\CUST_Samples\7\StaticSamples\StaticSample001\bin\Debug\StaticSample001.exe.config
+C:\CUST_Samples\7\StaticSamples\StaticSample001\bin\Debug\StaticSample001.exe
+C:\CUST_Samples\7\StaticSamples\StaticSample001\bin\Debug\StaticSample001.pdb
+C:\CUST_Samples\7\StaticSamples\StaticSample001\obj\Debug\StaticSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\7\StaticSamples\StaticSample001\obj\Debug\StaticSample001.exe
+C:\CUST_Samples\7\StaticSamples\StaticSample001\obj\Debug\StaticSample001.pdb

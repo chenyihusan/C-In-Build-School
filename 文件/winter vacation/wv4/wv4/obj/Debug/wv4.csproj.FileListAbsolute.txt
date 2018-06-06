@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\bin\Debug\wv4.exe.config
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\bin\Debug\wv4.exe
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\bin\Debug\wv4.pdb
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\obj\Debug\wv4.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\obj\Debug\wv4.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\obj\Debug\wv4.exe
+C:\Users\IEUser\Documents\winter vacation\wv4\wv4\obj\Debug\wv4.pdb

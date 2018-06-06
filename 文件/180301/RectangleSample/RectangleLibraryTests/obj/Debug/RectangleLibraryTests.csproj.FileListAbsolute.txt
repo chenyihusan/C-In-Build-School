@@ -1,0 +1,11 @@
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\RectangleLibraryTests.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\RectangleLibraryTests.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\RectangleLibrary.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\RectangleLibrary.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\RectangleLibrary.exe.config
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\obj\Debug\RectangleLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\obj\Debug\RectangleLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\obj\Debug\RectangleLibraryTests.dll
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibraryTests\obj\Debug\RectangleLibraryTests.pdb

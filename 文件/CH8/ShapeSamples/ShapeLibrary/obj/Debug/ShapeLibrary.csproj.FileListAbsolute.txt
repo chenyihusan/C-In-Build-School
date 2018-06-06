@@ -1,0 +1,5 @@
+C:\CUST_Samples\8\ShapeSamples\ShapeLibrary\bin\Debug\ShapeLibrary.dll
+C:\CUST_Samples\8\ShapeSamples\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+C:\CUST_Samples\8\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.dll
+C:\CUST_Samples\8\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.pdb
+C:\CUST_Samples\8\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.csprojResolveAssemblyReference.cache

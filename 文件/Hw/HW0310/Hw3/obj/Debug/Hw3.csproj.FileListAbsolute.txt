@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\bin\Debug\Hw3.exe.config
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\bin\Debug\Hw3.exe
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\bin\Debug\Hw3.pdb
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.Form1.resources
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.Properties.Resources.resources
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.exe
+C:\Users\IEUser\Documents\Hw\HW0310\Hw3\obj\Debug\Hw3.pdb

@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\obj\Debug\ShapeLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\obj\Debug\ShapeLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\ShapeLibraryTests.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\ShapeLibraryTests.pdb
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\ShapeLibrary.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\ShapeLibrary.pdb
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\obj\Debug\ShapeLibraryTests.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibraryTests\obj\Debug\ShapeLibraryTests.pdb

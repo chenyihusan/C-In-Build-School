@@ -1,0 +1,17 @@
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\Saler_log.ldf
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\Saler.mdf
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\Sale.exe.config
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\Sale.exe
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\Sale.pdb
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.Form1.resources
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.Properties.Resources.resources
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.exe
+C:\Users\IEUser\Documents\Hw\HW0310\HW0310\Sale\obj\Debug\Sale.pdb

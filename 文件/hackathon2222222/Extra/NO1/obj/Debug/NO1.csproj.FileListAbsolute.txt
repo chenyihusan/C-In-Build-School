@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\bin\Debug\NO1.exe.config
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\bin\Debug\NO1.exe
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\bin\Debug\NO1.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\obj\Debug\NO1.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\obj\Debug\NO1.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\obj\Debug\NO1.exe
+C:\Users\IEUser\Documents\hackathon2222222\Extra\NO1\obj\Debug\NO1.pdb

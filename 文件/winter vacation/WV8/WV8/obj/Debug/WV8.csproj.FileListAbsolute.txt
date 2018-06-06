@@ -1,0 +1,5 @@
+C:\Users\IEUser\Documents\winter vacation\WV8\WV8\obj\Debug\WV8.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\WV8\WV8\obj\Debug\WV8.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\WV8\WV8\obj\Debug\WV8.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\WV8\WV8\obj\Debug\WV8.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\WV8\WV8\obj\Debug\WV8.csproj.CoreCompileInputs.cache

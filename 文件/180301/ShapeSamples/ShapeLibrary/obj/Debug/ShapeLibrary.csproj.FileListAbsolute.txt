@@ -1,0 +1,6 @@
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\bin\Debug\ShapeLibrary.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.dll
+C:\Users\IEUser\Documents\180301\ShapeSamples\ShapeLibrary\obj\Debug\ShapeLibrary.pdb

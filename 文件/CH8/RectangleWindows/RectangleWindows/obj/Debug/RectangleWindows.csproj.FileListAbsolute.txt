@@ -1,0 +1,11 @@
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\bin\Debug\RectangleWindows.exe.config
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\bin\Debug\RectangleWindows.exe
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\bin\Debug\RectangleWindows.pdb
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\bin\Debug\RectangleLibrary.dll
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\bin\Debug\RectangleLibrary.pdb
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.Form1.resources
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.Properties.Resources.resources
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.csproj.GenerateResource.Cache
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.exe
+C:\CUST_Samples\8\RectangleWindows\RectangleWindows\obj\Debug\RectangleWindows.pdb

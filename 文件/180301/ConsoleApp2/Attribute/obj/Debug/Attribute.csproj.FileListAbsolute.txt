@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\bin\Debug\Attribute.exe
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\bin\Debug\Attribute.pdb
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\obj\Debug\Attribute.exe
+C:\Users\IEUser\Documents\180301\ConsoleApp2\Attribute\obj\Debug\Attribute.pdb

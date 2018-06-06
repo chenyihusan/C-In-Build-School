@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\180301\180301\ex\bin\Debug\ex.exe.config
+C:\Users\IEUser\Documents\180301\180301\ex\bin\Debug\ex.exe
+C:\Users\IEUser\Documents\180301\180301\ex\bin\Debug\ex.pdb
+C:\Users\IEUser\Documents\180301\180301\ex\obj\Debug\ex.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\180301\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\180301\ex\obj\Debug\ex.exe
+C:\Users\IEUser\Documents\180301\180301\ex\obj\Debug\ex.pdb

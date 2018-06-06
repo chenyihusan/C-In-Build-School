@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\bin\Debug\Hw6.exe.config
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\bin\Debug\Hw6.exe
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\bin\Debug\Hw6.pdb
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.Form1.resources
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.Properties.Resources.resources
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.exe
+C:\Users\IEUser\Documents\Hw\HW0310\Hw6\obj\Debug\Hw6.pdb

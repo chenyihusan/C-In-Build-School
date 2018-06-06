@@ -1,0 +1,6 @@
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\bin\Debug\MyRectangle2.exe.config
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\bin\Debug\MyRectangle2.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\bin\Debug\MyRectangle2.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\obj\Debug\MyRectangle2.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\obj\Debug\MyRectangle2.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\MyRectangle2\obj\Debug\MyRectangle2.pdb

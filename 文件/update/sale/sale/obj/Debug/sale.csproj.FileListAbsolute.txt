@@ -1,0 +1,17 @@
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\sale.exe.config
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\sale.exe
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\sale.pdb
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.Form1.resources
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.Properties.Resources.resources
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.exe
+C:\Users\IEUser\Documents\update\sale\sale\obj\Debug\sale.pdb
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\Contacts.mdf
+C:\Users\IEUser\Documents\update\sale\sale\bin\Debug\Contacts_log.ldf

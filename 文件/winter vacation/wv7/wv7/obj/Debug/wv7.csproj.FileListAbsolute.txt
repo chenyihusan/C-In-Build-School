@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\bin\Debug\wv7.exe.config
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\bin\Debug\wv7.exe
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\bin\Debug\wv7.pdb
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\obj\Debug\wv7.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\obj\Debug\wv7.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\obj\Debug\wv7.exe
+C:\Users\IEUser\Documents\winter vacation\wv7\wv7\obj\Debug\wv7.pdb

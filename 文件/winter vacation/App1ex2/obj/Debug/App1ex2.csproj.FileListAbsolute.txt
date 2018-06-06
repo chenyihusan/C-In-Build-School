@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\winter vacation\App1ex2\bin\Debug\App1ex2.exe.config
+C:\Users\IEUser\Documents\winter vacation\App1ex2\bin\Debug\App1ex2.exe
+C:\Users\IEUser\Documents\winter vacation\App1ex2\bin\Debug\App1ex2.pdb
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.exe
+C:\Users\IEUser\Documents\winter vacation\App1ex2\obj\Debug\App1ex2.pdb

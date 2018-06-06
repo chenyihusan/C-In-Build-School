@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\bin\Debug\Buy.exe.config
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\bin\Debug\Buy.exe
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\bin\Debug\Buy.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\obj\Debug\Buy.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\obj\Debug\Buy.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\obj\Debug\Buy.exe
+C:\Users\IEUser\Documents\hackathon2222222\Extra\Buy\obj\Debug\Buy.pdb

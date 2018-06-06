@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\W8\W8\bin\Debug\W8.exe.config
+C:\Users\IEUser\Documents\winter vacation\W8\W8\bin\Debug\W8.exe
+C:\Users\IEUser\Documents\winter vacation\W8\W8\bin\Debug\W8.pdb
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.exe
+C:\Users\IEUser\Documents\winter vacation\W8\W8\obj\Debug\W8.pdb

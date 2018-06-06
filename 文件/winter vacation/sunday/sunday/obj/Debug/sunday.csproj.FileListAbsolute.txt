@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\bin\Debug\sunday.exe.config
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\bin\Debug\sunday.exe
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\bin\Debug\sunday.pdb
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.exe
+C:\Users\IEUser\Documents\winter vacation\sunday\sunday\obj\Debug\sunday.pdb

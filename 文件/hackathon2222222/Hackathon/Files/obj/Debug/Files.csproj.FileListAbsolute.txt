@@ -1,0 +1,14 @@
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\Files.exe.config
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\Files.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\Files.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\obj\Debug\Files.exe
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\obj\Debug\Files.pdb
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\File.mdf
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\File_log.ldf
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Documents\hackathon2222222\Hackathon\Files\bin\Debug\zh-Hant\EntityFramework.resources.dll

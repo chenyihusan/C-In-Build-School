@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\bin\Debug\RectangleLibrary.exe.config
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\bin\Debug\RectangleLibrary.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\bin\Debug\RectangleLibrary.pdb
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\obj\Debug\RectangleLibrary.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\obj\Debug\RectangleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\obj\Debug\RectangleLibrary.exe
+C:\Users\IEUser\Documents\180301\RectangleSample\RectangleLibrary\obj\Debug\RectangleLibrary.pdb

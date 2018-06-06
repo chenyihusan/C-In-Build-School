@@ -1,0 +1,17 @@
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\Sation.mdf
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\Sation_log.ldf
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\HW6.exe.config
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\HW6.exe
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\HW6.pdb
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Documents\Hw\HW6\HW6\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.Form1.resources
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.Properties.Resources.resources
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.exe
+C:\Users\IEUser\Documents\Hw\HW6\HW6\obj\Debug\HW6.pdb

@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\bin\Debug\Generic.exe.config
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\bin\Debug\Generic.exe
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\bin\Debug\Generic.pdb
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\obj\Debug\Generic.exe
+C:\Users\IEUser\Documents\CH7\InterfaceSamples\Generic\obj\Debug\Generic.pdb

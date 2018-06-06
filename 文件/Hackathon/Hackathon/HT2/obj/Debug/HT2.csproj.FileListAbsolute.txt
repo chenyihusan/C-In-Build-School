@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\bin\Debug\HT2.exe.config
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\bin\Debug\HT2.exe
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\bin\Debug\HT2.pdb
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\obj\Debug\HT2.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\obj\Debug\HT2.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\obj\Debug\HT2.exe
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT2\obj\Debug\HT2.pdb

@@ -1,0 +1,7 @@
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\bin\Debug\HW2.exe.config
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\bin\Debug\HW2.exe
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\bin\Debug\HW2.pdb
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\obj\Debug\HW2.exe
+C:\Users\IEUser\Documents\Hw\HW0310\HW2\obj\Debug\HW2.pdb

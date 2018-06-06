@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\winter vacation\ex23u\bin\Debug\ex23u.exe.config
+C:\Users\IEUser\Documents\winter vacation\ex23u\bin\Debug\ex23u.exe
+C:\Users\IEUser\Documents\winter vacation\ex23u\bin\Debug\ex23u.pdb
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.exe
+C:\Users\IEUser\Documents\winter vacation\ex23u\obj\Debug\ex23u.pdb

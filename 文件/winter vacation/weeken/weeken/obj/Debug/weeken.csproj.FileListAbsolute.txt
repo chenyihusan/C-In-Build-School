@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\bin\Debug\weeken.exe.config
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\bin\Debug\weeken.exe
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\bin\Debug\weeken.pdb
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.Form1.resources
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.Properties.Resources.resources
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.exe
+C:\Users\IEUser\Documents\winter vacation\weeken\weeken\obj\Debug\weeken.pdb

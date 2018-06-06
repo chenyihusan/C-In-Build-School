@@ -1,0 +1,10 @@
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\bin\Debug\HT3.exe.config
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\bin\Debug\HT3.exe
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\bin\Debug\HT3.pdb
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.Form1.resources
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.Properties.Resources.resources
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.csproj.GenerateResource.Cache
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.exe
+C:\Users\IEUser\Documents\Hackathon\Hackathon\HT3\obj\Debug\HT3.pdb
