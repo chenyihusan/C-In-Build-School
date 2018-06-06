@@ -1,0 +1,14 @@
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\InterfaceSamples002.exe.config
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\InterfaceSamples002.exe
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\InterfaceSamples002.pdb
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\Newtonsoft.Json.dll
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\Newtonsoft.Json.xml
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.Form1.resources
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.Properties.Resources.resources
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.csproj.GenerateResource.Cache
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.exe
+C:\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.pdb
+C:\Users\bill_\Downloads\chu2017\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\bin\Debug\InterfaceSamples002.exe.config
+C:\Users\bill_\Downloads\chu2017\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.exe
+C:\Users\bill_\Downloads\chu2017\CUST_Samples\7\InterfaceSamples\InterfaceSamples002\obj\Debug\InterfaceSamples002.pdb

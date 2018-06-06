@@ -1,0 +1,6 @@
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\bin\Debug\ExceptionSample001.exe.config
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\bin\Debug\ExceptionSample001.exe
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\bin\Debug\ExceptionSample001.pdb
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\obj\Debug\ExceptionSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\obj\Debug\ExceptionSample001.exe
+C:\CUST_Samples\7\ExceptionSamples\ExceptionSample001\obj\Debug\ExceptionSample001.pdb

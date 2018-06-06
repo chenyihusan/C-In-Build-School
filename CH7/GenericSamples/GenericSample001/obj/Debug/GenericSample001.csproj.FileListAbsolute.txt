@@ -1,0 +1,6 @@
+C:\CUST_Samples\7\GenericSamples\GenericSample001\bin\Debug\GenericSample001.exe.config
+C:\CUST_Samples\7\GenericSamples\GenericSample001\bin\Debug\GenericSample001.exe
+C:\CUST_Samples\7\GenericSamples\GenericSample001\bin\Debug\GenericSample001.pdb
+C:\CUST_Samples\7\GenericSamples\GenericSample001\obj\Debug\GenericSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\7\GenericSamples\GenericSample001\obj\Debug\GenericSample001.exe
+C:\CUST_Samples\7\GenericSamples\GenericSample001\obj\Debug\GenericSample001.pdb

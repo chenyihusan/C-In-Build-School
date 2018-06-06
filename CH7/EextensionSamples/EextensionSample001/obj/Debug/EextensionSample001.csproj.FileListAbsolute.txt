@@ -1,0 +1,6 @@
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\bin\Debug\EextensionSample001.exe.config
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\bin\Debug\EextensionSample001.exe
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\bin\Debug\EextensionSample001.pdb
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\obj\Debug\EextensionSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\obj\Debug\EextensionSample001.exe
+C:\CUST_Samples\7\EextensionSamples\EextensionSample001\obj\Debug\EextensionSample001.pdb
